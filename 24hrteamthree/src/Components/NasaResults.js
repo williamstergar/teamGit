@@ -15,4 +15,3 @@ const NasaResults = (props) => {
         </div>
     )
 }
-export default NasaResults;
