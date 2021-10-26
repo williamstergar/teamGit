@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,8 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: linear-gradient(#ffd89b, #19547b);
+}
+
