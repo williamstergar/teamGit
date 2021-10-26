@@ -6,7 +6,7 @@ import Nasa from './Components/Nasa';
 function App() {
   return (
     <div className="App">
-      Test
+      <Nasa />
     </div>
   );
 }
